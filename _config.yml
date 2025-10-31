@@ -1,0 +1,20 @@
+title: nostr.party 
+description: nostr Web of Trust relay and NIP-05 hosting
+baseurl: /
+url: https://nostr.party
+
+theme: hacked-jekyll
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  

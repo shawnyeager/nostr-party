@@ -1,0 +1,33 @@
+- key: Name
+  value: nostr.party
+
+- key: Description
+  value:
+    - hello!
+    - this tiny website
+    - hosts nostr addresses
+
+- key: Contact
+  value:
+    - key: npub
+      value: hello@nostr.party
+
+- key: Services
+  value:
+    - NIP-05 verification
+    - Web of Trust relay
+
+- key: Learn More
+  value:
+    - value: about nostr
+      url: https://nostr.com
+    - value: nostr apps
+      url: https://www.nostrapps.com
+    - value: nostr documentary
+      url: https://www.youtube.com/watch?v=aA-jiiepOrE
+
+- key: Pricing
+  value: free
+
+- key: Requirements
+  value: for NIP-05 hosting, reach out on nostr
