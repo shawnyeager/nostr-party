@@ -13,7 +13,7 @@
 - key: services
   value:
     - NIP-05 verification
-    - Web of Trust relay
+    - WoT relay: wss://wot.nostr.party
 - key: learn more
   value:
     - value: about nostr
